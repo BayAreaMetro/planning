@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## SB 743 Assistance
 
-Here is some text.
+Here is some text. Rabbits.
 
 You can use the [editor on GitHub](https://github.com/BayAreaMetro/planning-portal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
