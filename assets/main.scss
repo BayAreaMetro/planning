@@ -5,5 +5,5 @@
 @import "minima";
 
 body {
-  background-image: url('/assets/draft.png')
+  background-image: url('{{ site.url }}/assets/draft.png')
 }
